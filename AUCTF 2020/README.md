@@ -4,6 +4,6 @@
 
 Official writeups can be found here: https://github.com/auehc/AUCTF-2020
 
-https://ctf.auburn.edu/
+Challenge Site and Scoreboard: https://ctf.auburn.edu/
 
-https://ctftime.org/event/1020
+CTFTime Event Listing: https://ctftime.org/event/1020
