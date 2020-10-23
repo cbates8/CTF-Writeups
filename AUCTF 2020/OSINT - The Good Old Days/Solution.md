@@ -5,7 +5,7 @@
 > This site used to look a lot cooler
 
 ### Solution:
-My first thought was to check for an archived version of the site using the [Wayback Machine](https://archive.org/).
+My first thought was to check for an archived version of the challenge site using the [Wayback Machine](https://archive.org/).
 
 I found the flag in [this](https://web.archive.org/web/20200213064617/https://ctf.auburn.edu/users) capture from February 13th.
 
