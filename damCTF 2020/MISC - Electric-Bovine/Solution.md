@@ -27,7 +27,7 @@ You may find my bot token here https://beav.es/o7r
 License: None.
 ```
 
-From the [source code]() I can see that I can use `!send_msg` to in turn use `!add_role`. Sending `!send_msg !role_add xxx622925433796689920x xxx763128087226351638x` returns this message:
+From the [source code](https://github.com/cbates8/CTF-Writeups/blob/main/damCTF%202020/MISC%20-%20Electric-Bovine/bot_source.py) I can see that I can use `!send_msg` to in turn use `!add_role`. Sending `!send_msg !role_add xxx622925433796689920x xxx763128087226351638x` returns this message:
 
 ![Role_add error](role_add_error.png)
 
