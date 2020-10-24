@@ -41,7 +41,7 @@ permset = list(
 
 I found that his statement checks if these sets all have at least one entry in common. Looking at the current values, I saw that changing my nickname in the server to 768341608578486851 would make the statement evaluate to true, allowing me to run `!send_msg !role_add xxx622925433796689920x xxx763128087226351638x` and to give myself elevated permissons in the server.
 
-![Role_add success(role_add_success.png)
+![Role_add success](role_add_success.png)
 
 Now that I had the "private" role, I could invoke the `!cowsay` command. After some trial and error, sending `!cowsay <flag` had the Secure Permisson's Bot respond with the flag:
 
