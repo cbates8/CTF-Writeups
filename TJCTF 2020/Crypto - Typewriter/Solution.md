@@ -10,7 +10,7 @@
 ### Solution:
 Given a->q, b->w, and c->e, I noticed it looked like the QWERTY keyboard layout in alphabetical order, so I mapped it out by hand.
 
-![ABCDEF->QWERTY](/QWERTY.jpg)
+![ABCDEF->QWERTY](QWERTY.jpg)
 
 In the image, black is the standard QWERTY layout, blue is the given transformations, and orange is me filling in the blanks with the rest of the alphabet.
 
