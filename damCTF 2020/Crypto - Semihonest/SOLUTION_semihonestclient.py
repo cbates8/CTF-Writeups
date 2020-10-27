@@ -42,7 +42,7 @@ def otp_decrypt(key, p, ctext):
         if(((k*i) % p) == 1):
             keyInverse = i
             break'''
-    keyInverse = invert(key, p)
+    keyInverse = invert(key, p) #Using invert() from gmpy2 to find modular inverse
     return (ctext * keyInverse) % p
     #raise NotImplementedError("Decryption not implemented!")
 
